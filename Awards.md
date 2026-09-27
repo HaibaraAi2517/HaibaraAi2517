@@ -1,52 +1,52 @@
-# 荣誉与证明材料
+# Honors & Certificates
 
-[← 返回主页](README.md)
+[← Back to Profile](README.md)
 
-这里收录我的开源贡献、竞赛成绩和培养计划记录。证明图片将陆续补充。
+A collection of my open source contributions, competition results, and completed training programs. Supporting images will be added over time.
 
 ## 01 · Apache Fory Committer
 
-**Apache Fory Committer** · [项目官网 ↗](https://fory.apache.org/)
+**Apache Fory Committer** · [Official Website ↗](https://fory.apache.org/)
 
-证明材料：待补充。
+Supporting documentation: to be added.
 
-<!-- 上传图片到 assets/proofs/fory-committer.png 后，取消下一行的注释。 -->
-<!-- ![Apache Fory Committer 证明](assets/proofs/fory-committer.png) -->
+<!-- Upload the image to assets/proofs/fory-committer.png, then uncomment the next line. -->
+<!-- ![Apache Fory Committer documentation](assets/proofs/fory-committer.png) -->
 
 ## 02 · Spring AI
 
-**[PR #7062 · Keep selected tools declared during tool search](https://github.com/spring-projects/spring-ai/pull/7062)** · [项目官网 ↗](https://spring.io/projects/spring-ai)
+**[PR #7062 · Keep selected tools declared during tool search](https://github.com/spring-projects/spring-ai/pull/7062)** · [Official Website ↗](https://spring.io/projects/spring-ai)
 
-为工具搜索场景补充核心工具持续声明能力，已提交 PR。最新审核与合并状态以 PR 页面为准。
+Submitted a PR to keep core tools declared throughout tool-search interactions. See the PR page for the latest review and merge status.
 
-补充截图：待补充。
+Additional screenshots: to be added.
 
-<!-- ![Spring AI PR #7062 贡献记录](assets/proofs/spring-ai-7062.png) -->
+<!-- ![Spring AI PR #7062 contribution record](assets/proofs/spring-ai-7062.png) -->
 
-## 03 · 天池云原生编程挑战赛
+## 03 · Tianchi Cloud-Native Programming Challenge
 
-**2024 天池云原生编程挑战赛 · 赛道 3 初赛第 1 名** · [阿里云天池官网 ↗](https://tianchi.aliyun.com/competition)
+**2024 Tianchi Cloud-Native Programming Challenge · 1st Place, Track 3 Preliminary Round** · [Alibaba Cloud Tianchi ↗](https://tianchi.aliyun.com/competition)
 
-证明材料：待补充。
+Supporting documentation: to be added.
 
-<!-- ![2024 天池云原生编程挑战赛赛道 3 初赛成绩](assets/proofs/tianchi-2024.png) -->
+<!-- ![2024 Tianchi Challenge Track 3 preliminary results](assets/proofs/tianchi-2024.png) -->
 
-## 04 · 腾讯犀牛鸟开源人才培养计划
+## 04 · Tencent Rhino-Bird Open Source Talent Development Program
 
-**入选并完成 2024 腾讯犀牛鸟开源人才培养计划（OMI 课题），获开源实战证书。**
+**Selected for and completed the 2024 Tencent Rhino-Bird Open Source Talent Development Program (OMI project); awarded a certificate for hands-on open source practice.**
 
-[计划官网 ↗](https://opensource.tencent.com/summer-of-code) · [OMI 官方仓库 ↗](https://github.com/Tencent/omi)
+[Official Website ↗](https://opensource.tencent.com/summer-of-code) · [Official OMI Repository ↗](https://github.com/Tencent/omi)
 
-证明材料：待补充。
+Supporting documentation: to be added.
 
-<!-- ![2024 腾讯犀牛鸟 OMI 课题开源实战证书](assets/proofs/tencent-rhino-bird-2024.png) -->
+<!-- ![2024 Tencent Rhino-Bird OMI open source practice certificate](assets/proofs/tencent-rhino-bird-2024.png) -->
 
-## 05 · 青训营 × 豆包 MarsCode 技术训练营
+## 05 · Youth Training Camp × Doubao MarsCode Technical Bootcamp
 
-**完成「青训营 × 豆包 MarsCode 技术训练营」，获结营证书。**
+**Completed the Youth Training Camp × Doubao MarsCode Technical Bootcamp and received a certificate of completion.**
 
-稀土掘金 × 豆包 MarsCode，2024.12 · [稀土掘金官网 ↗](https://juejin.cn/) · [MarsCode 官网 ↗](https://www.marscode.cn/)
+Juejin × Doubao MarsCode, December 2024 · [Juejin ↗](https://juejin.cn/) · [MarsCode ↗](https://www.marscode.cn/)
 
-证明材料：待补充。
+Supporting documentation: to be added.
 
-<!-- ![青训营 × 豆包 MarsCode 技术训练营结营证书](assets/proofs/marscode-2024-12.png) -->
+<!-- ![Youth Training Camp × Doubao MarsCode certificate of completion](assets/proofs/marscode-2024-12.png) -->

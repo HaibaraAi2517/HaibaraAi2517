@@ -3,38 +3,37 @@
 </p>
 
 <p align="center">
-  <strong>在开源中打磨技术，在实践中积累答案。</strong>
+  <strong>Learning through practice. Growing through open source.</strong>
 </p>
 
 <p align="center">
   <a href="https://fory.apache.org/">Apache Fory</a> &nbsp; / &nbsp;
   <a href="https://spring.io/projects/spring-ai">Spring AI</a> &nbsp; / &nbsp;
-  <a href="Awards.md">荣誉与证明材料 ↗</a>
+  <a href="Awards.md">Honors &amp; Certificates ↗</a>
 </p>
 
 ---
 
-## 荣誉与足迹
+## Highlights & Milestones
 
-### `01` 开源贡献 · Open Source
+### `01` Open Source
 
-- **Apache Fory Committer** · [项目官网 ↗](https://fory.apache.org/)
-- **Spring AI · [PR #7062](https://github.com/spring-projects/spring-ai/pull/7062)** · [项目官网 ↗](https://spring.io/projects/spring-ai)  
-  为工具搜索场景补充核心工具持续声明能力，已提交 PR。
+- **Apache Fory Committer** · [Official Website ↗](https://fory.apache.org/)
+- **Spring AI · [PR #7062](https://github.com/spring-projects/spring-ai/pull/7062)** · [Official Website ↗](https://spring.io/projects/spring-ai)  
+  Submitted a PR to keep core tools declared throughout tool-search interactions.
 
-### `02` 竞赛成绩 · Competition
+### `02` Competition
 
-- **2024 天池云原生编程挑战赛 · 赛道 3 初赛第 1 名** · [阿里云天池官网 ↗](https://tianchi.aliyun.com/competition)
+- **2024 Tianchi Cloud-Native Programming Challenge · 1st Place, Track 3 Preliminary Round** · [Alibaba Cloud Tianchi ↗](https://tianchi.aliyun.com/competition)
 
-### `03` 培养计划 · Learning & Practice
+### `03` Learning & Practice
 
-- **2024 腾讯犀牛鸟开源人才培养计划 · OMI 课题** · [计划官网 ↗](https://opensource.tencent.com/summer-of-code) · [OMI 官方仓库 ↗](https://github.com/Tencent/omi)  
-  入选并完成培养计划，获开源实战证书。
-- **青训营 × 豆包 MarsCode 技术训练营 · 结营证书** · [稀土掘金官网 ↗](https://juejin.cn/) · [MarsCode 官网 ↗](https://www.marscode.cn/)  
-  稀土掘金 × 豆包 MarsCode，2024.12。
+- **2024 Tencent Rhino-Bird Open Source Talent Development Program · OMI Project** · [Official Website ↗](https://opensource.tencent.com/summer-of-code) · [Official OMI Repository ↗](https://github.com/Tencent/omi)  
+  Selected for and completed the program; awarded a certificate for hands-on open source practice.
+- **Youth Training Camp × Doubao MarsCode Technical Bootcamp · Certificate of Completion** · [Juejin ↗](https://juejin.cn/) · [MarsCode ↗](https://www.marscode.cn/)  
+  Completed the bootcamp organized by Juejin × Doubao MarsCode in December 2024.
 
 ---
 
-**[查看证明材料 →](Awards.md)**  
-证书、成绩截图与开源贡献记录，集中收录于独立页面。
-
+**[View Honors & Certificates →](Awards.md)**  
+Certificates, competition results, and open source contribution records in one place.
