@@ -25,7 +25,7 @@ Additional screenshots: to be added.
 
 ## 03 · Tianchi Cloud-Native Programming Challenge
 
-**2024 Tianchi Cloud-Native Programming Challenge · 1st Place, Track 3 Preliminary Round** · [Alibaba Cloud Tianchi ↗](https://tianchi.aliyun.com/competition)
+**2024 Tianchi Cloud-Native Programming Challenge · 2nd Place, Track 3 Preliminary Round** · [Alibaba Cloud Tianchi ↗](https://tianchi.aliyun.com/competition)
 
 Supporting documentation: to be added.
 
@@ -33,13 +33,13 @@ Supporting documentation: to be added.
 
 ## 04 · Tencent Rhino-Bird Open Source Talent Development Program
 
-**Selected for and completed the 2024 Tencent Rhino-Bird Open Source Talent Development Program (OMI project); awarded a certificate for hands-on open source practice.**
+**Selected for and completed the 2024 Tencent Rhino-Bird Open Source Talent Development Program (tRPC-Cpp project); awarded a certificate for hands-on open source practice.**
 
-[Official Website ↗](https://opensource.tencent.com/summer-of-code) · [Official OMI Repository ↗](https://github.com/Tencent/omi)
+[Official Website ↗](https://opensource.tencent.com/summer-of-code) · [Official tRPC-Cpp Repository ↗](https://github.com/trpc-group/trpc-cpp)
 
 Supporting documentation: to be added.
 
-<!-- ![2024 Tencent Rhino-Bird OMI open source practice certificate](assets/proofs/tencent-rhino-bird-2024.png) -->
+<!-- ![2024 Tencent Rhino-Bird tRPC-Cpp open source practice certificate](assets/proofs/tencent-rhino-bird-2024.png) -->
 
 ## 05 · Youth Training Camp × Doubao MarsCode Technical Bootcamp
 
