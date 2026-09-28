@@ -2,16 +2,19 @@
 
 [← Back to Profile](README.md)
 
-A collection of my open source contributions, competition results, and completed training programs. Supporting images will be added over time.
+A collection of my open source contributions, competition results, and completed training programs. Supporting certificates and email records are organized below.
 
 ## 01 · Apache Fory Committer
 
 **Apache Fory Committer** · [Official Website ↗](https://fory.apache.org/)
 
-Supporting documentation: to be added.
+### Committer invitation
 
-<!-- Upload the image to assets/proofs/fory-committer.png, then uncomment the next line. -->
-<!-- ![Apache Fory Committer documentation](assets/proofs/fory-committer.png) -->
+![Apache Fory committer invitation](assets/proofs/fory-committer-invitation.png)
+
+### Apache Software Foundation account confirmation
+
+![Apache Software Foundation committer account welcome email](assets/proofs/apache-account-welcome.jpg)
 
 ## 02 · Spring AI
 
@@ -19,17 +22,15 @@ Supporting documentation: to be added.
 
 Submitted a PR to keep core tools declared throughout tool-search interactions. See the PR page for the latest review and merge status.
 
-Additional screenshots: to be added.
-
-<!-- ![Spring AI PR #7062 contribution record](assets/proofs/spring-ai-7062.png) -->
+The linked pull request is the contribution record.
 
 ## 03 · Tianchi Cloud-Native Programming Challenge
 
 **2024 Tianchi Cloud-Native Programming Challenge · 2nd Place, Track 3 Preliminary Round** · [Alibaba Cloud Tianchi ↗](https://tianchi.aliyun.com/competition)
 
-Supporting documentation: to be added.
+### Preliminary-round certificate
 
-<!-- ![2024 Tianchi Challenge Track 3 preliminary results](assets/proofs/tianchi-2024.png) -->
+![2024 Tianchi Track 3 preliminary round — 2nd place](assets/proofs/tianchi-2024.jpg)
 
 ## 04 · Tencent Rhino-Bird Open Source Talent Development Program
 
@@ -37,9 +38,17 @@ Supporting documentation: to be added.
 
 [Official Website ↗](https://opensource.tencent.com/summer-of-code) · [Official tRPC-Cpp Repository ↗](https://github.com/trpc-group/trpc-cpp)
 
-Supporting documentation: to be added.
+### tRPC-Cpp project admission
 
-<!-- ![2024 Tencent Rhino-Bird tRPC-Cpp open source practice certificate](assets/proofs/tencent-rhino-bird-2024.png) -->
+![Admission to the tRPC-Cpp project](assets/proofs/trpc-cpp-admission.png)
+
+### Open source practice certificate
+
+![2024 Tencent Rhino-Bird open source practice certificate](assets/proofs/tencent-rhino-bird-2024.jpg)
+
+### Completion notification
+
+![Tencent Rhino-Bird completion notification](assets/proofs/tencent-completion-email.jpg)
 
 ## 05 · Youth Training Camp × Doubao MarsCode Technical Bootcamp
 
@@ -47,6 +56,11 @@ Supporting documentation: to be added.
 
 Juejin × Doubao MarsCode, December 2024 · [Juejin ↗](https://juejin.cn/) · [MarsCode ↗](https://www.marscode.cn/)
 
-Supporting documentation: to be added.
+### Certificate of completion
 
-<!-- ![Youth Training Camp × Doubao MarsCode certificate of completion](assets/proofs/marscode-2024-12.png) -->
+![Youth Training Camp × Doubao MarsCode certificate of completion](assets/proofs/marscode-2024-12.jpg)
+
+### Admission notification
+
+![Youth Training Camp × Doubao MarsCode admission notification](assets/proofs/marscode-admission.jpg)
+
