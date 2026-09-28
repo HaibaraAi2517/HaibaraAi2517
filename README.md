@@ -24,11 +24,11 @@
 
 ### `02` Competition
 
-- **2024 Tianchi Cloud-Native Programming Challenge · 1st Place, Track 3 Preliminary Round** · [Alibaba Cloud Tianchi ↗](https://tianchi.aliyun.com/competition)
+- **2024 Tianchi Cloud-Native Programming Challenge · 2nd Place, Track 3 Preliminary Round** · [Alibaba Cloud Tianchi ↗](https://tianchi.aliyun.com/competition)
 
 ### `03` Learning & Practice
 
-- **2024 Tencent Rhino-Bird Open Source Talent Development Program · OMI Project** · [Official Website ↗](https://opensource.tencent.com/summer-of-code) · [Official OMI Repository ↗](https://github.com/Tencent/omi)  
+- **2024 Tencent Rhino-Bird Open Source Talent Development Program · tRPC-Cpp Project** · [Official Website ↗](https://opensource.tencent.com/summer-of-code) · [Official tRPC-Cpp Repository ↗](https://github.com/trpc-group/trpc-cpp)  
   Selected for and completed the program; awarded a certificate for hands-on open source practice.
 - **Youth Training Camp × Doubao MarsCode Technical Bootcamp · Certificate of Completion** · [Juejin ↗](https://juejin.cn/) · [MarsCode ↗](https://www.marscode.cn/)  
   Completed the bootcamp organized by Juejin × Doubao MarsCode in December 2024.
